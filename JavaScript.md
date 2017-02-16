@@ -1,6 +1,6 @@
 # JavaScript
 Para dominar JavaScript, el lenguaje más versátil y demandado de la actualidad, tienes que conocer sus herramientas, tales como librerías, frameworks, componentes, etc.
-___
+
 ## Herramientas
 
 ### Gulp
@@ -9,9 +9,20 @@ ___
 * **Competencia:** Grunt
 * **Enlaces**
     * **[Sitio Oficial](http://gulpjs.com/ "gulpjs.com")**
-    * **[Guía 1](https://frontendlabs.io/1669--gulp-js-en-espanol-tutorial-basico-primeros-pasos-y-ejemplos "frontendlabs.io")**
-    * **[Guía 2](https://platzi.com/blog/automatizacion-gulp-js/ "platzi.com")**
+    * **[Guía de ayuda 1](https://frontendlabs.io/1669--gulp-js-en-espanol-tutorial-basico-primeros-pasos-y-ejemplos "frontendlabs.io")**
+    * **[Guía de ayuda 2](https://platzi.com/blog/automatizacion-gulp-js/ "platzi.com")**
 
-___
+## Template
+
+### Componente A
+* **Categoría:** Automatizador, framework, librería, componente, paquete, etc.
+* **Descripción:** Este es una descripción corta del componente, porque para eso están los enlaces de más abajo, para ver la documentación completa de este. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tristique commodo magna a sagittis. Aliquam tortor libero, molestie quis efficitur nec, venenatis et lectus. Proin pellentesque, leo a interdum imperdiet, ipsum lectus volutpat nunc, at faucibus arcu ipsum ac arcu.
+* **Competencia:** Componente B (se pone la compentecia o el "parecido" a otro componente. Ejemplo: Gulp con Grunt)
+* **Enlaces**
+    * **[Sitio Oficial](http://sitio.com/ "sitio.com")**
+    * **[Guía de ayuda 1](https://frontend.io/ayuda-1 "frontend.io")**
+    * **[Guía de ayuda 2](https://ejemplo.io/guia-para-empezar "ejemplo.io")**
+
+
 ## Autor
 Comunidad FrontEnd Chile
