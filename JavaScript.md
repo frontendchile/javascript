@@ -6,7 +6,7 @@ Para dominar JavaScript, el lenguaje más versátil y demandado de la actualidad
    * [Gulp](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#gulp)
    * [Grunt](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#grunt)
 * [Template](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#template)
-* [¿Cómo contribuir?](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#https://github.com/frontendchile/javascript/blob/master/JavaScript.md#cómo-contribuir)
+* [¿Cómo contribuir?](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#cómo-contribuir)
 * [Autor](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#autor)
 
 ## Herramientas
