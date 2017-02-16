@@ -1,6 +1,9 @@
 # JavaScript
 Para dominar JavaScript, el lenguaje más versátil y demandado de la actualidad, tienes que conocer sus herramientas, tales como librerías, frameworks, componentes, etc.
 
+## Índice
+* [Herramientas](https://github.com/frontendchile/javascript/edit/master/JavaScript.md#herramientas)
+
 ## Herramientas
 
 ### Gulp
