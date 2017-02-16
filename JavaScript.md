@@ -4,13 +4,21 @@ Para dominar JavaScript, el lenguaje más versátil y demandado de la actualidad
 ## Herramientas
 
 ### Gulp
-* **Categoría:** Automatizador de tareas
+* **Categoría:** Librería / Automatizador de tareas
 * **Descripción:** Gulp.js es un build system(sistema de construcción) que permite automatizar tareas comunes de desarrollo, tales como la minificación de código JavaScript, recarga del navegador, compresión de imágenes, validación de sintaxis de código y un sin fin de tareas más.
 * **Competencia:** Grunt
 * **Enlaces**
     * **[Sitio Oficial](http://gulpjs.com/ "gulpjs.com")**
     * **[Guía de ayuda 1](https://frontendlabs.io/1669--gulp-js-en-espanol-tutorial-basico-primeros-pasos-y-ejemplos "frontendlabs.io")**
     * **[Guía de ayuda 2](https://platzi.com/blog/automatizacion-gulp-js/ "platzi.com")**
+    
+### Grunt
+* **Categoría:** Librería / Automatizador de tareas
+* **Descripción:** Grunt.js es una librería JavaScript que nos permite configurar tareas automáticas y así ahorrarnos tiempo en nuestro desarrollo y despliegue de aplicaciones webs.Con un simple fichero JS que llamaremos Gruntfile, indicamos las tareas que queremos automatizar con un simple comando y las escribimos en él en formato JSON.
+* **Competencia:** Gulp
+* **Enlaces**
+    * **[Sitio Oficial](http://gruntjs.com/ "gruntjs.com")**
+    * **[Guía de ayuda 1](https://carlosazaustre.es/blog/automatizar-tareas-en-javascript-con-grunt-js/ "carlosazaustre.es")**
 
 ## Template
 
