@@ -3,6 +3,7 @@ Para dominar JavaScript, el lenguaje más versátil y demandado de la actualidad
 
 ## Índice
 * [Herramientas](https://github.com/frontendchile/javascript/edit/master/JavaScript.md#herramientas)
+   * [Gulp](https://github.com/frontendchile/javascript/edit/master/JavaScript.md#gulp)
 
 ## Herramientas
 
