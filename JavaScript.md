@@ -2,8 +2,12 @@
 Para dominar JavaScript, el lenguaje más versátil y demandado de la actualidad, tienes que conocer sus herramientas, tales como librerías, frameworks, componentes, etc.
 
 ## Índice
-* [Herramientas](https://github.com/frontendchile/javascript/edit/master/JavaScript.md#herramientas)
-   * [Gulp](https://github.com/frontendchile/javascript/edit/master/JavaScript.md#gulp)
+* [Herramientas](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#herramientas)
+   * [Gulp](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#gulp)
+   * [Grunt](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#grunt)
+* [Template](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#template)
+* [¿Cómo contribuir?](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#¿Como contribuir?)
+* [Autor](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#autor)
 
 ## Herramientas
 
@@ -35,6 +39,9 @@ Para dominar JavaScript, el lenguaje más versátil y demandado de la actualidad
     * **[Guía de ayuda 1](https://frontend.io/ayuda-1 "frontend.io")**
     * **[Guía de ayuda 2](https://ejemplo.io/guia-para-empezar "ejemplo.io")**
 
+## ¿Cómo contribuir?
+Si quieres comenzar a contribuir con este proyecto, dale clic al ícono que aparece en la parte superior derecha que dice: “Fork”. Al hacer fork del proyecto lo que estarás haciendo es un clone del repositorio dentro de tu cuenta de GitHub. Si ingresas a tu cuenta de GitHub, en la pantalla principal observarás que te aparecerá el repositorio “forkeado”.
+Luego haz los cambios que tengas que hacer (agregar o modificar el documento), y pulsa el botón en la parte superior que dice: "New pull request", luego dale clic a "Create pull request". Nos llegará la confirmación de un nuevo cambio y dependiendo si la aprobamos o no, estás listo!
 
 ## Autor
 Comunidad FrontEnd Chile
