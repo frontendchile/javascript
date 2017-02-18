@@ -11,6 +11,15 @@ Para dominar JavaScript, el lenguaje más versátil y demandado de la actualidad
 
 ## Herramientas
 
+### Vue.js
+* **Categoría:** Framework
+* **Descripción:** Vue es un framework JavaScript progresivo para la creación de interfaces de usuario. Vue.js añade data binding y reactividad a las aplicaciones web, destaca por ser ligero, flexible, tener una corta curva de aprendizaje y por adoptar lo mejor de los frameworks JavaScript más populares como son AngularJS y React.
+* **Competencia:** AngularJS, React
+* **Enlaces**
+    * **[Sitio Oficial](http://vuejs.org/ "vuejs.org")**
+    * **[Guía de ayuda 1](https://coligo.io/vuejs-the-basics/ "coligo.io")**
+    * **[Guía de ayuda 2](https://laracasts.com/series/learn-vue-2-step-by-step "laracasts.com")**
+
 ### Gulp
 * **Categoría:** Librería / Automatizador de tareas
 * **Descripción:** Gulp.js es un build system(sistema de construcción) que permite automatizar tareas comunes de desarrollo, tales como la minificación de código JavaScript, recarga del navegador, compresión de imágenes, validación de sintaxis de código y un sin fin de tareas más.
