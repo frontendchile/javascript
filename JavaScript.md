@@ -3,6 +3,8 @@ Para dominar JavaScript, el lenguaje más versátil y demandado de la actualidad
 
 ## Índice
 * [Herramientas](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#herramientas)
+   * [Babel](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#babel)
+   * [Vue](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#vue)
    * [Gulp](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#gulp)
    * [Grunt](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#grunt)
 * [Template](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#template)
@@ -11,10 +13,19 @@ Para dominar JavaScript, el lenguaje más versátil y demandado de la actualidad
 
 ## Herramientas
 
-### Vue.js
+### Babel
+* **Categoría:** Transcopilador
+* **Descripción:** Babel.js es un transcompilador que nos permite convertir nuestro código de JavaScript ES6 en código de ES5. Esta característica se esta convirtiendo en algo crítico para mucha gente ya que las nuevas características de ES6 hacen deseable trabajar con el lenguaje lo antes posible. Lamentablemente hoy en día en la mayor parte de los navegadores y distintas plataformas de JavaScript tienen un soporte parcial de ES6 . Vamos a introducir Babel.js y como nos ayuda a transformar nuestro código de ES6 a ES5.
+* **Competencia:** No aplica por el momento.
+* **Enlaces**
+    * **[Sitio Oficial](https://babeljs.io/ "babeljs.io")**
+    * **[Guía de ayuda 1](https://abalozz.es/usa-las-nuevas-caracteristicas-de-javascript-hoy-mismo-con-babel/ "abalozz.es")**
+    * **[Guía de ayuda 2](http://www.arquitecturajava.com/introduccion-babel-js-javascript-es6/ "arquitecturajava.com")**
+
+### Vue
 * **Categoría:** Framework
 * **Descripción:** Vue es un framework JavaScript progresivo para la creación de interfaces de usuario. Vue.js añade data binding y reactividad a las aplicaciones web, destaca por ser ligero, flexible, tener una corta curva de aprendizaje y por adoptar lo mejor de los frameworks JavaScript más populares como son AngularJS y React.
-* **Competencia:** AngularJS, React
+* **Competencia:** Angular, React
 * **Enlaces**
     * **[Sitio Oficial](http://vuejs.org/ "vuejs.org")**
     * **[Guía de ayuda 1](https://coligo.io/vuejs-the-basics/ "coligo.io")**
