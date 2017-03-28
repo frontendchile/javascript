@@ -11,7 +11,25 @@ Para dominar JavaScript, el lenguaje más versátil y demandado de la actualidad
 * [¿Cómo contribuir?](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#cómo-contribuir)
 * [Autor](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#autor)
 
-## Herramientas
+## HerramientasJS
+
+### Handlebars
+* **Categoría:** Sistema de plantillas
+* **Descripción:** Handlebars es una extensión de MustacheJS que tiene más prestaciones y mejor rendimiento. Es un sistema de plantillas que permite definir de manera muy sencilla una "plantilla" para datos que vas a mostrar en el navegador para ser más limpio y legible que el común método de concatenar cadenas de carácteres dentro de una matriz mientas recorres un objeto que acabas de recibir o crear del servidor.
+* **Competencia:** Mustache
+* **Enlaces**
+    * **[HandlebarJS.com](http://handlebarsjs.com/ "handlebarsjs.com")**
+    * **[Guía de ayuda 1](https://www.funcion13.com/aprendiendo-a-usar-handlebars-como-sistema-de-templates-en-jquery/ "funcion13.com")**
+    * **[Guía de ayuda 2](http://blog.hostdime.com.co/que-es-handlebars-js-y-como-usarlo/ "blog.hostdime.com.co")**
+    
+### Ember
+* **Categoría:** Framework UI, SPA
+* **Descripción:** Ember.js es un framework JavaScript para crear aplicaciones web del lado del cliente (código abierto). Esta basado en la arquitectura modelo-vista-controlador (MVC). Esta catalogado como unos de los principales framework a en el mundo de JavaScript ya que permite a los desarrolladores crear aplicaciones de una sola pagina (single-page) escalables.
+* **Competencia:** Angular, Vue, Polymer, React, Backbone.
+* **Enlaces**
+    * **[EmberJS.com](https://emberjs.com/ "emberjs.com")**
+    * **[Guía de ayuda 1](http://codehero.co/ember-js-desde-cero-introduccion-e-instalacion/ "codehero.co")**
+    * **[Guía de ayuda 2](https://www.adictosaltrabajo.com/tutoriales/primera-aplicacion-ember/ "adictosaltrabajo.com")**
 
 ### Babel
 * **Categoría:** Transcopilador
@@ -21,6 +39,22 @@ Para dominar JavaScript, el lenguaje más versátil y demandado de la actualidad
     * **[BabelJS.io](https://babeljs.io/ "babeljs.io")**
     * **[Guía de ayuda 1](https://abalozz.es/usa-las-nuevas-caracteristicas-de-javascript-hoy-mismo-con-babel/ "abalozz.es")**
     * **[Guía de ayuda 2](http://www.arquitecturajava.com/introduccion-babel-js-javascript-es6/ "arquitecturajava.com")**
+
+### Browserify
+* **Categoría:** Dependencias/modulos
+* **Descripción:** Browserify es básicamente una herramienta que nos permite gestionar dependencias en forma de módulos del lado del cliente (en el navegador). A grandes rasgos podemos decir que lo que nos permite es crear y requerir módulos tal y como hacemos con Node.js; y digo a grandes rasgos porque no es exactamente así, ya que con browserify no tendremos en el build final varios ficheros javascript, sino que crearemos un bundle con la herramienta y tan solo tendremos un fichero javascript.
+* **Competencia:** Webpack.
+* **Enlaces**
+    * **[Browserify.org](http://browserify.org/ "browserify.org")**
+    * **[Guía de ayuda 1](http://www.nazariglez.com/2015/02/19/primeros-pasos-con-browserify/ "nazariglez.com")**
+    
+### Webpack
+* **Categoría:** Dependencias/modulos
+* **Descripción:** Webpack es un sistema de bundling para preparar el desarrollo de una aplicación web para producción. En cierta medida se puede considerar un Browserify avanzado ya que tiene muchas opciones de configuración. También se puede considerar una evolución de Grunt y Gulp, ya que permite de alguna manera automatizar los procesos principales que son transpilar y preprocesar código de .scss a .css, de ES7 a ES5/6, etc...
+* **Competencia:** Browserify.
+* **Enlaces**
+    * **[Webpack.JS.org](https://webpack.js.org/ "webpack.js.org")**
+    * **[Guía de ayuda 1](https://carlosazaustre.es/blog/primeros-pasos-con-webpack/ "carlosacaustre.es")**
 
 ### Vue
 * **Categoría:** Framework UI
@@ -68,10 +102,6 @@ Para dominar JavaScript, el lenguaje más versátil y demandado de la actualidad
     * **[Sitio.com](http://sitio.com/ "sitio.com")**
     * **[Guía de ayuda 1](https://frontend.io/ayuda-1 "frontend.io")**
     * **[Guía de ayuda 2](https://ejemplo.io/guia-para-empezar "ejemplo.io")**
-
-## ¿Cómo contribuir?
-Si quieres comenzar a contribuir con este proyecto, dale clic al ícono que aparece en la parte superior derecha que dice: “Fork”. Al hacer fork del proyecto lo que estarás haciendo es un clone del repositorio dentro de tu cuenta de GitHub. Si ingresas a tu cuenta de GitHub, en la pantalla principal observarás que te aparecerá el repositorio “forkeado”.
-Luego haz los cambios que tengas que hacer (agregar o modificar el documento), y pulsa el botón en la parte superior que dice: "New pull request", luego dale clic a "Create pull request". Nos llegará la confirmación de un nuevo cambio y dependiendo si la aprobamos o no, estás listo!
 
 ## Autor
 Comunidad FrontEnd Chile
