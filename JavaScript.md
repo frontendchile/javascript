@@ -3,12 +3,16 @@ Para dominar JavaScript, el lenguaje más versátil y demandado de la actualidad
 
 ## Índice
 * [Herramientas](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#herramientas)
+   * [Handlebars](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#handlebars)
+   * [Ember](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#ember)
    * [Babel](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#babel)
+   * [Browserify](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#browserify)
+   * [Webpack](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#webpack)
    * [Vue](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#vue)
+   * [React](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#react)
    * [Gulp](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#gulp)
    * [Grunt](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#grunt)
 * [Template](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#template)
-* [¿Cómo contribuir?](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#cómo-contribuir)
 * [Autor](https://github.com/frontendchile/javascript/blob/master/JavaScript.md#autor)
 
 ## HerramientasJS
@@ -102,6 +106,20 @@ Para dominar JavaScript, el lenguaje más versátil y demandado de la actualidad
     * **[Sitio.com](http://sitio.com/ "sitio.com")**
     * **[Guía de ayuda 1](https://frontend.io/ayuda-1 "frontend.io")**
     * **[Guía de ayuda 2](https://ejemplo.io/guia-para-empezar "ejemplo.io")**
+
+## Pequeñas herramientas vBeta
+
+### **[WowJS](http://mynameismatthieu.com/WOW/)** - Animations
+### **[Waypoints](http://imakewebthings.com/waypoints/)** - Scroll
+### **[ParallaxJS](http://matthew.wagerfield.com/parallax/)** - Parallax
+### **[IntenseJS](http://tholman.com/intense-images/)** - Full Screen Images
+### **[CountUpJS](https://github.com/fdograph/countUp.js)** - Numerical Data Animation
+### **[PageJS](https://visionmedia.github.io/page.js/)** - Router
+### **[ThreeJS](https://threejs.org/)** - 3D Animations
+### **[Leaflet](http://leafletjs.com/)** - Maps
+### **[HeadhesiveJS](https://markgoodyear.com/labs/headhesive/)** - Sticky Header
+### **[Vivus](http://maxwellito.github.io/vivus/)** - SVG
+### **[ScrollMagic](http://scrollmagic.io/)** - Scroll Animations
 
 ## Autor
 Comunidad FrontEnd Chile
