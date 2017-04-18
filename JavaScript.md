@@ -114,12 +114,14 @@ Para dominar JavaScript, el lenguaje más versátil y demandado de la actualidad
 ### **[ParallaxJS](http://matthew.wagerfield.com/parallax/)** - Parallax
 ### **[IntenseJS](http://tholman.com/intense-images/)** - Full Screen Images
 ### **[CountUpJS](https://github.com/fdograph/countUp.js)** - Numerical Data Animation
+### **[CountUp jQuery](http://bfintal.github.io/Counter-Up/demo/demo.html)** - Numerical Data Animation
 ### **[PageJS](https://visionmedia.github.io/page.js/)** - Router
 ### **[ThreeJS](https://threejs.org/)** - 3D Animations
 ### **[Leaflet](http://leafletjs.com/)** - Maps
 ### **[HeadhesiveJS](https://markgoodyear.com/labs/headhesive/)** - Sticky Header
 ### **[Vivus](http://maxwellito.github.io/vivus/)** - SVG
 ### **[ScrollMagic](http://scrollmagic.io/)** - Scroll Animations
+### **[PaceJS](http://github.hubspot.com/pace/docs/welcome/)** - Automatic page load progress bar
 
 ## Autor
 Comunidad FrontEnd Chile
